@@ -107,7 +107,7 @@ F8::
 quickVentures()
 return
 
-Home::Pause,Toggle
+^Home::Pause,Toggle
 
 End::ExitApp
 
