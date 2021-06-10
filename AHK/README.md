@@ -10,7 +10,7 @@
 - ### It is likely you will need to change the hotkeys or key presses for the scripts to hotkeys or key presses that work better for you. 
   - These scripts mostly operate on default NumPad controls.
 
-- ### Every script can be paused and resumed by pressing the `Home` key, and can be terminated by pressing the `End` key.
+- ### Every script can be paused and resumed by pressing `CTRL+Home`, and can be terminated by pressing the `End` key.
 
 ## QuickVenture
 
