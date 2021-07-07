@@ -4,6 +4,8 @@ This Ruby script will take an ACT (Advanced Combat Tracker) `.log` file you poin
 
 The contents will be stored in a new file called `ExtractedLog.txt` in the same directory as the `extractor.rb` file.
 
+To be safe, please keep a back up of your log files. You can also make a copy of your log file and use this script on the copy.
+
 Usage: `ruby extractor.rb [filepath] [0 or 1] [0 or 1]`
 
 The first argument is the full path to the `.log` file. 
