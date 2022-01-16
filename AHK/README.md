@@ -36,10 +36,6 @@ This script goes through your list of retainers and *reassigns* them Quick Ventu
 1. Run Script.
 1. Press `F8` (default key) to start.
 
-## BulkInventoryTransfer
-
-
-
 ## Housing (Ultimate)
 
 - This script automatically selects a house placard and attempts to purchase it for a Free Company.
