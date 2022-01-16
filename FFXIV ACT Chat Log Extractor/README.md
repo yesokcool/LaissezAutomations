@@ -1,3 +1,5 @@
+# For a more full-fledged ACT Chat Log extractor, check out [ALE](https://github.com/yesokcool/ALE).
+
 # FFXIV ACT Chat Log Extractor
 
 This Ruby script will take an ACT (Advanced Combat Tracker) `.log` file you point it to and will extract from the specific chat channels that players use to communicate. It will ignore everything else such as battle logs. 
