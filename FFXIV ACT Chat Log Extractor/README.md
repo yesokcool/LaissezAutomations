@@ -1,4 +1,4 @@
-# For a more full-fledged ACT Chat Log extractor, check out [ALE](https://github.com/yesokcool/ALE).
+# For an updated and more full-fledged ACT Chat Log extractor, check out [ALE](https://github.com/yesokcool/ALE).
 
 # FFXIV ACT Chat Log Extractor
 
